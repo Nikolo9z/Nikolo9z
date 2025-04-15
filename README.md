@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/Nikolo9z">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikolo9z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Nikolo9z">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikolo9z&theme=dark&hide_border=true"/>
